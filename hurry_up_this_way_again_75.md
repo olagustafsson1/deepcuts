@@ -1,3 +1,4 @@
+```
 Hurry up this way again, The Stylistics, 75 bpm
 
 [Am7.E7/G#. [Am/G. D/F#. [FM. Em. [Dm9.Gm9. 
@@ -58,3 +59,4 @@ Guitar & keys unison melody
 
 [Am... [G/A.D/A Dm/A [Dm9...  [Dm9...
 [-Am
+```
