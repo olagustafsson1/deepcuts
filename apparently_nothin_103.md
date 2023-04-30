@@ -80,7 +80,7 @@ Everywhere I go (Apparently nothin')
 I'm gonna let my light glow (Nothin' apparently)
 [C#m9... [A13.G#7+. [C#m9... [A13.G#7+.
 [C#m9... [A13.G#7+. [C#m9... [A13.G#7+. 
-```
+
 (Apparently nothin') Anytime y'all (Nothin' apparently), ohoho
 (Apparently nothin') Anytime
 (Nothin' apparently) Anytime y'all, anytime y'all
@@ -96,3 +96,5 @@ You got to see the light (Nothin' apparently)
 [C#m9... [A13.G#7+. [C#m9... [A13.G#7+. 
 
 (Apparently nothin') No, no, no, no, no, no, no
+```
+Handed down through centuries
