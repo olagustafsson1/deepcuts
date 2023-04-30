@@ -1,3 +1,4 @@
+```
 Walk on by, Dionne Warwick, 100 bpm
 
 [Am7... [Am7...
@@ -21,9 +22,6 @@ And walk on by (don't stop)
 And walk on by
 [Fmaj... [Bbmaj...[Fmaj... [Bbmaj...
 [Fmaj... [Bbmaj...[Fmaj... [Bbmaj...
-
-
-
 
 I just can't get over losing you
 And so if I seem, broken and blue
@@ -52,3 +50,4 @@ Baby, leave, you'll never see the tears I cry (don't, don't stop)
 Now you really gotta go, so walk on by (don't, don't stop)
 Mmm, baby, leave, you'll never see the tears I cry (don't, don't stop)
 Now you really gotta go, so walk on by (don't, don't)
+```
