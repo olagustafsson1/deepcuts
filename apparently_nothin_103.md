@@ -1,3 +1,4 @@
+
 Apparently nothin', Young disciples, Carleen Anderson, 103 bpm
 
 [C#7... [C#7... [C#7... [C#7... keys + drums
@@ -79,7 +80,7 @@ Everywhere I go (Apparently nothin')
 I'm gonna let my light glow (Nothin' apparently)
 [C#m9... [A13.G#7+. [C#m9... [A13.G#7+.
 [C#m9... [A13.G#7+. [C#m9... [A13.G#7+. 
-
+```
 (Apparently nothin') Anytime y'all (Nothin' apparently), ohoho
 (Apparently nothin') Anytime
 (Nothin' apparently) Anytime y'all, anytime y'all
