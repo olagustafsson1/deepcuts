@@ -1,3 +1,4 @@
+```
 Too soon you're old, Penny Goodwin, 71 bpm
 
 [Am7...  [Am7...  [Am7...  [Am7...
@@ -54,3 +55,4 @@ Yeah you're gonna pay some dues
 Tempo doubles (stressed out)
 [Dm7.G7.  [Dm7.G7. [Dm7.G7.  [Dm7.G7.
 
+```
