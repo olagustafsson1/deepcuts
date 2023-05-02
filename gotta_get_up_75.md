@@ -1,3 +1,4 @@
+``` 
 Gotta get up, Jill Scott, 75 bpm
 
 I don't want to go to work today, I'd rather
@@ -59,7 +60,6 @@ I just can't get comfortable doing, doing nothin', nuthin'
 Da ta ta dit
 [Bb. Bb/Ab. [Gb/Db.Bb6/D. [Bb. Bb/Ab. [Gb/Db.Bb6/D. drums go to DnB
 [Bb. Bb/Ab. [Gb/Db.Bb6/D. [Bb. Bb/Ab. [Gb/Db.Bb6/D.
-
 [Bb. Bb/Ab. [Gb/Db.Bb6/D. [Bb. Bb/Ab. [Gb/Db.Bb6/D. drums go to DnB
 [Bb. Bb/Ab. [Gb/Db.Bb6/D. [Bb. Bb/Ab. [Gb/Db.Bb6/D.
 
@@ -72,3 +72,4 @@ Gotta, gotta, gotta, gotta, gotta, gotta, gotta get up, get up, hm
 [Bb. Bb/Ab. [Gb/Db.Bb6/D. [Bb. Bb/Ab. [Gb/Db.Bb6/D. cont. DnB
 [Bb. Bb/Ab. [Gb/Db.Bb6/D. [Bb. Bb/Ab. [Gb/Db.Bb6/D.
 [Bb
+``` 
