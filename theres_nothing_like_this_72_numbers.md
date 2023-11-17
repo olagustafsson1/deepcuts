@@ -1,7 +1,7 @@
 ```
 There's nothing like this, Omar, 72 bpm
-Original key Eb major
-New key, Db major
+Original key: Eb major
+New key: G major
 
 [1M9... [1M9... bass
 [1M9... [1M9... add drums

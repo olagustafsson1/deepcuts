@@ -1,5 +1,9 @@
 ```
 Vad du ser är vad du får, Lisa Nilsson, bpm 101
+Original key: B
+New key: (no change)
+
+
 [1^... [1^... [4^... [4^... 
 [1^... [1^... [4^... [4^---
 

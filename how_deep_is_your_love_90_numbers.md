@@ -1,6 +1,7 @@
 ```
 How deep is your love, as sung by PJ Morton and Yebba, 90 bpm
-Original key: F#, new key: A
+Original key: F#
+New key: A
 
 [1^...  [1^...  [4^... [4m7...
 

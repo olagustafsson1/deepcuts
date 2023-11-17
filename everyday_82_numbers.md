@@ -1,5 +1,7 @@
 ```
 Everyday, Lucy Pearl, 81 bpm
+Original key: Am
+New key: Gm
 
 4 bar drums, end with F -> F# into loop
 

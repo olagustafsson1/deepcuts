@@ -1,7 +1,7 @@
 ```
 A long walk, Jill Scott, 76 bpm
-Original in B minor
-New key A minor
+Original key: Bm
+New key: Am
 
 [1m11... [1m11. b6maj/b7 4maj/5
 [1m11... [1m11. b6maj/b7 4maj/5

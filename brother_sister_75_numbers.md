@@ -1,7 +1,7 @@
 ```
 Brother sister, Brand New Heavies, 75 bpm
-Original key, G minor
-New key, F minor
+Original key: G minor
+New key: F minor
 
 [1m7. 2m7. [1m7. 2m7. [1m7. 2m7. [1m7. 2m7. 
 [1m7. 2m7. [1m7. 2m7. [1m7. 2m7. [1m7. 2m7.

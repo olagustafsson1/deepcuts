@@ -1,5 +1,7 @@
 ```
-Sweet thing, Chaka Khan, original key A major
+Sweet thing, Chaka Khan, 80 bpm
+Original key: A major
+New key: G major
 
 [1maj.4maj. [1maj.4maj. [1maj.4maj. [1maj.4maj.
 

@@ -1,5 +1,7 @@
 ```
 Apparently nothing, Brand New Heavies, 102 bpm
+Original key: Em
+New key: Am
 
 [1m11...[b6D.5Db9. [1m11... [b6D.5Db9. bass
 

@@ -1,6 +1,9 @@
 ```
 On & on, Erykah Badu, 80 bpm
 
+Original key: Em
+New key: (no change)
+
 Oh, my, my, my, I'm feeling high
 My money's gone, I'm all alone
 Too much to see, The world keeps turnin'

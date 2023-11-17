@@ -1,5 +1,7 @@
 ```
 Hurry up this way again, The Stylistics, 75 bpm
+Original key: Am
+New key: Gm
 
 [1m7.5D/7. [1m/b7. 4/6. [b6M. 5m. [4m9.b7m9. 
 

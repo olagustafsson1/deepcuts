@@ -1,13 +1,12 @@
 ```
 Walk on by, Dionne Warwick, 100 bpm
-Original key
+Original key: Am
+New key: (no change)
 
 [2m7... [2m7...
 
 If you see me walking down the street
 And I start to cry each time we meet
-
-
 Walk on by, walk on by
 Make believe
 That you don't see the tears

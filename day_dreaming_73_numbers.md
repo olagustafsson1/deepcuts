@@ -1,6 +1,7 @@
 ```
 Day dreaming, Aretha Franklin
-Original in Eb major/C minor, numbers in major key
+Original key: Eb major, numbers in major key
+New key: (no change)
 
 (Whole tone scale)
 
