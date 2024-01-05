@@ -23,3 +23,8 @@ Chord charts, lyrics, tempo and other notes
 - _Too soon you're old_, Penny Goodwin (https://open.spotify.com/track/5DT1dW3RlOhAgdJFCAFjqS?si=6d1a6879c142475b), original key: Am, new key: n/a, bpm: 71
 - _Space cowboy_, Jamiroquai (https://open.spotify.com/track/6K53GM9W6Vle5KBwGFVnZM?si=87a9fa2aa9cf49bd), original key: Db, new key: n/a, bpm: 111
 - _Gotta get up_, Jill Scott (https://open.spotify.com/track/08VLZM1IZKbA5qGjEwVqEf?si=2b58d5cadc1346f7), original key: Bb, new key: n/a, bpm: 75
+- _Sing a song_, EWF, (https://open.spotify.com/track/5W5FVsgGCe3T9nIMkiXqNo?si=e63ccaf0f94b4d84), original key: A, new key: G (-2 semitones), bpm 122
+- _All night long_, Lionel Richie (https://open.spotify.com/track/4czNORk5MjW5WOn98bki32?si=e07a67b123154ed6), original key: Ab, bpm 108
+- _Street life_, Randy Crawford (https://open.spotify.com/track/4CWUGKyUi4aJOq7tF6HAIF?si=6392254d622d472c), original key: Ab/Fm, new key (Gb, -2 semitones), bpm 108
+- _Love never felt so good, Michael Jackson/Justin Timberlake (https://open.spotify.com/track/48td6xvpokdYwvbl3JIiXP?si=1d8c53f63c7645db), original key: F major, new key: E major (-1 semitone), bpm 117
+- _I'm every woman_, Chaka Khan/Whitney Houston, (https://open.spotify.com/track/1oFiPGBafH9Woo9AMwgBSl?si=e353ab008b8f441e), original key: Fm/Ab, new key: Em/Gb (-2 semitones), bpm 119 
