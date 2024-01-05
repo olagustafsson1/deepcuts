@@ -1,6 +1,9 @@
 ```
 I'm every woman, Whitney version, 119.5 bpm
 
+Original in Ab major (Fm)
+We transpose -2 semitones to Gb major (Ebm)
+
 Slow, half tempo
 [1^9... [5/7.3m7 [6m7.6m7/2. [2m7/5 5 2m7/5 5
 
