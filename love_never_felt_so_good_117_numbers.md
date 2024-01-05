@@ -1,6 +1,8 @@
 ```
 Baby, love never felt so good, Michael Jackson, 117 bpm
 
+Originally in F major, we transpose -1 semitone to E major
+
 [[[[ [[[2m7 5D11 b6D11 b7D11
 
 Baby, love never felt so good
