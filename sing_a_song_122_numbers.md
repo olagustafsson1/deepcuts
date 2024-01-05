@@ -1,4 +1,7 @@
+```
 Sing a song, Earth with and fire, bpm 122
+
+Original in A, we transpose -2 semitones to G
 
 [1... [2m7. 5D11. [1... [2m7. 5D11. 
 [1... [2m7. 5D11. [1... [4D11...
@@ -72,3 +75,5 @@ Yeah, yeah, yeah, yeah, yeah, yeah, yeah
 Funk guitar to fade
 [1... [2m7. 5D11. [1... [2m7. 5D11. 
 [1... [2m7. 5D11. [1... [2m7. 5D11. 
+[
+```
