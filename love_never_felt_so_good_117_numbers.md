@@ -3,7 +3,7 @@ Baby, love never felt so good, Michael Jackson, 117 bpm
 
 Originally in F major, we transpose -1 semitone to E major
 
-[[[[ [[[2m7 5D11 b6D11 b7D11
+[[[[ [[[2m7 6D11 b7D11 b7D11
 
 Baby, love never felt so good
 And I'd doubt if it ever could
@@ -31,7 +31,7 @@ So baby, love never felt so good
 [2m7... [5D...  [1^...  [6Db9...
 
 [2m7... [4 3m7 5D11
-[1^...  [2m7 5D11 b6D11 b7D11
+[1^...  [2m7 6D11 b7D11 b7D11
 
 Baby, love never felt so fine
 And I'd doubt if it was ever mine
@@ -82,7 +82,7 @@ So baby, love never felt so good
 [2m7... [5D...  [1^...  [6Db9...
 
 [2m7... [5D11...
-[2m7 5D11 b6D11 b7D11 [2m7 5D11 b6D11 b7D11
+[4 1 b2D b3D [2m7 6D11 b7D11 b7D11
 
 Baby, every time I love you
 In and out of my life, in and out baby
