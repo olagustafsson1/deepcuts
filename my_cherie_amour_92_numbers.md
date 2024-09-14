@@ -3,8 +3,8 @@ My cherie amour, Stevie Wonder (as done by Raquel Rodriguez), 92 bpm
 Original key: Db modulating to D
 New key: (no change)
 
-[1...    [2D#11... [1...   [2D#11...
-[1...    [2D#11... [1...   [2D#11. 5D+.
+[1/5...    [2D#11/5... [1/5... [2D#11/5...
+[1/5...    [2D#11/5... [1/5... [2D#11/5. 5D+.
 
 My Cherie amour, lovely as a summer day
 My Cherie amour, distant as the Milky Way
