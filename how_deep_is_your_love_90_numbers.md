@@ -61,7 +61,7 @@ And you come to me...
 [4^... [3m7... [2m7... [b7D#11...
 [3m7...[5D11--- break
 
-How deep is your love?
+How deep is your love? (breakdown, piano, drums)
 How deep is your love?
 I really mean to learn
 'Cause we're living in a world of fools
