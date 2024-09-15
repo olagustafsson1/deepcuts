@@ -82,7 +82,7 @@ So baby, love never felt so good
 [2m7... [5D...  [1^...  [6Db9...
 
 [2m7... [5D11...
-[4 1 b2D b3D [2m7 6D11 b7D11 b7D11
+[b3m7 b7D11 7D11 b2D11 [2m7 6D11 b7D11 1
 
 Baby, every time I love you
 In and out of my life, in and out baby
