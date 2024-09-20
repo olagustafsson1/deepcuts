@@ -28,3 +28,5 @@ Chord charts, lyrics, tempo and other notes
 - _Street life_, Randy Crawford (https://open.spotify.com/track/4CWUGKyUi4aJOq7tF6HAIF?si=6392254d622d472c), original key: Ab/Fm, new key (Gb, -2 semitones), bpm 108
 - _Love never felt so good, Michael Jackson/Justin Timberlake (https://open.spotify.com/track/48td6xvpokdYwvbl3JIiXP?si=1d8c53f63c7645db), original key: F major, new key: E major (-1 semitone), bpm 117
 - _I'm every woman_, Chaka Khan/Whitney Houston, (https://open.spotify.com/track/1oFiPGBafH9Woo9AMwgBSl?si=e353ab008b8f441e), original key: Fm/Ab, new key: Em/Gb (-2 semitones), bpm 119 
+- _Something got me started_, Simply Red (https://open.spotify.com/track/1J7gY69tfzHLCe5eP9BRZM?si=80dc4454099243a7), original key Dm, bpm 112
+- _You are the universe_, Brand New Heavies (https://open.spotify.com/track/7coOBdN6UnOZHMQyoKvssx?si=1322d6e4dc2c4da7), bpm 115, original key F
