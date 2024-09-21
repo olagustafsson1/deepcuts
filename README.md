@@ -5,10 +5,12 @@ Songs for Deep Cuts the band
 Chord charts, lyrics, tempo and other notes
 
 Numbers indicate the scale degree chord. At times the colouring of the chord is indicated as follows:
+```
 1 or 1^ = major seventh
 2 or 2m7 = minor seventh
 5 or 5D = dominant flat seventh
 1/3 or 4/6 = 1st inversion, 3rd in the bass
+```
 
 - _Still a friend of mine_, Incognito (https://open.spotify.com/track/6gqkHMI3iB36C0c8IjTQW4?si=71ad187b07cb402d), original key: F#m, new key: Em, bpm: 87
 - _Day dreaming_, Aretha Franklin (https://open.spotify.com/track/7L4G39PVgMfaeHRyi1ML7y?si=766f7e6056f04c92), original key: Bb, new key: n/a, bpm: 73
