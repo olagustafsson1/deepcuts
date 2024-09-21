@@ -1,3 +1,4 @@
+```
 Lost in music, Sister Sledge, 115 bpm
 
 Original C
@@ -95,3 +96,4 @@ We're lost in music, Feel so alive
 I quit my 9 to 5, We're lost in music
 [2m... [%... [5... [%...
 [b7... [%... [1... [%... (fade)
+```

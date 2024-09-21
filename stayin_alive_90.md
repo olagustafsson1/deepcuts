@@ -1,3 +1,4 @@
+```
 Stayin' alive, Scary Pockets, 90 bpm, 16th groove
 
 E major to G major
@@ -101,3 +102,4 @@ G-major
 [2m... [%... [5D... [%...
 [3m... [%... [-6-5 [-4-3
 [6m... [3m...[2D
+```
