@@ -38,3 +38,5 @@ Numbers indicate the scale degree chord. At times the colouring of the chord is 
 - _I'm every woman_, Chaka Khan/Whitney Houston, (https://open.spotify.com/track/1oFiPGBafH9Woo9AMwgBSl?si=e353ab008b8f441e), original key: Fm/Ab, new key: Em/Gb (-2 semitones), bpm 119 
 - _Something got me started_, Simply Red (https://open.spotify.com/track/1J7gY69tfzHLCe5eP9BRZM?si=80dc4454099243a7), original key Dm, bpm 112
 - _You are the universe_, Brand New Heavies (https://open.spotify.com/track/7coOBdN6UnOZHMQyoKvssx?si=1322d6e4dc2c4da7), bpm 115, original key F
+- I can't go for that, Hall & Oates (https://youtu.be/1fPqBs7CNwU?si=Oj_kMnV6Z9HzWcPq), bpm 109, think of it as Eb or Cm
+- Rich Girl, Hall & Oates, as done by Lake Street Dive (https://open.spotify.com/track/0RKKLIOnAPImtlLlYEjbYF?si=ed79309a45b54960), bpm 85, E major
