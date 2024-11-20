@@ -1,4 +1,5 @@
-´´´
+```
+
 Do like you, Stevie Wonder, 123 bpm (we do 120)
 Original key: Ab
 
@@ -88,4 +89,4 @@ Ooh, you done broke Mama's lamp
 Uh, uh
 Yes, you did
 No, I didn't
-´´´
+```
