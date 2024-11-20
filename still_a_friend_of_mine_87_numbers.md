@@ -1,7 +1,6 @@
 ```
 Still a friend of mine, Incognito, bpm 87
-Original key D-major
-New key C-major
+Original key D-major, we do original key
 
 [1maj.7m7. [b7maj.6m7.  keys
 [1maj.7m7. [b7maj.6m7.  add bass
