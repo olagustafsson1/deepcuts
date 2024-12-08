@@ -54,7 +54,7 @@ Sing a song (sing a, sing a, sing a, sing)
 
 Instr.
 [1... [2m7. 5D11. [1... [2m7. 5D11. 
-[1... [2m7. 5D11. [1... [2m7. 5D11. 
+[1... [2m7. 5D11. [1... [4D... 
 
 Vocals
 [1... [2m7. 5D11. [1... [2m7. 5D11.
@@ -65,7 +65,7 @@ Sing a song
 Sing a song
 Sing a song
 [1... [2m7. 5D11. [1... [4D11...
-[1... [2m7. 5D11. [1... [4D11--- (syncopated 1)
+[1... [2m7. 5D11. [1... [4D11--- (syncopated, break on 1)
 
 If you sing a song today
 You will make a better way
