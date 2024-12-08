@@ -1,10 +1,11 @@
 ```
 Stayin' alive, Scary Pockets, 90 bpm, 16th groove
 
-E major to G major
+Original: E major 
+We do: G major
 
 [1D... [4D... [b7D... [5D...
-[1D... [4D... [b7D... [5D---
+[1D... [4D... [b7D... [5D--- (add thirds)
 
 Well, you by the way I use my walk
 I'm a woman's man, no time to talk
@@ -28,15 +29,14 @@ Ah, ha, ha, ha, Stayin' alive
 Stayin' alive
 Ah, ha, ha, ha, Stayin' alive
 
-G-major
-[4M... [%... [5D... [%...
-[3m... [%... [4M... [%...
-[2m... [%... [5D... [%...
-[3m... [%... [--6m. [-3m
-[-2D.. [riff   (5-4-b3-4-b-3-1)
+[b6M...[%... [b7... [%...
+[5m... [%... [b6M...[%...
+[4m... [%... [b7... [%...
+[5m... [%... [--1m. [-5m..
+[-4D.. [riff (5-4-b3-4-b-3-1)
 
 [1D... [4D... [b7D... [5D...
-[1D... [4D... [b7D... [5D...
+[1D... [4D... [b7D... [5D... (add thirds on top)
 
 Well now, I get low and I get high
 And if I can't get either
@@ -61,12 +61,11 @@ Ah, ha, ha, ha, Stayin' alive
 Stayin' alive
 Ah, ha, ha, ha, Stayin' alive
 
-G-major
-[4M... [%... [5D... [%...
-[3m... [%... [4M... [%...
-[2m... [%... [5D... [%...
-[3m... [%... [--6m. [-3m
-[-2D.. [riff   (5-4-b3-4-b-3-1)
+[b6M...[%... [b7... [%...
+[5m... [%... [b6M...[%...
+[4m... [%... [b7... [%...
+[5m... [%... [--1m. [-5m..
+[-4D.. [riff (5-4-b3-4-b-3-1)
 
 Life goin' nowhere, Somebody help me
 Somebody help me, yeah
@@ -96,10 +95,10 @@ Ah, ha, ha, ha, Stayin' alive
 Stayin' alive
 Ah, ha, ha, ha, Stayin' alive
 
-G-major
-[4M... [%... [5D... [%...
-[3m... [%... [4M... [%...
-[2m... [%... [5D... [%...
-[3m... [%... [-6-5 [-4-3
-[6m... [3m...[2D
+[b6M...[%... [b7... [%...
+[5m... [%... [b6M...[%...
+[4m... [%... [b7... [%...
+[-1-b7 [-b6-5
+[--1m. [-5m..[-4D.. [-5m--
+
 ```
