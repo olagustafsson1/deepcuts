@@ -20,7 +20,7 @@ So far gone, on your own
 You can get along if you try to be strong
 But you'll never be strong 'cause
 [4^... [2m... [5sus... [2m 3m 6m.
-[4^... [2m... [2m/6... [5D...
+[4^... [2m... [2m.1/3. [4^.5D.
 
 You're a rich girl, and you've gone too far
 'Cause you know it don't matter anyway
@@ -32,11 +32,11 @@ It's a bitch girl and it's gone too far
 'Cause you know it don't matter anyway
 Say money but it won't get you too far
 Get you too far
-[1.3m. [6m.5. [4.1/3. [2.5.
+[1.3m. [6m.5. [4.1/3. [2.1.
 
 Solo
 [4^... [2m... [5sus... [2m 3m 6m.
-[4^... [2m... [2m/6... [5D...
+[4^... [2m... [2m.1/3. [4.5D...
 [1.3m. [6m.5. [4.1/3.  [2m.5D.
 [1.3m. [6m.5. [4.1/3.  [2m.5D.
 
@@ -46,7 +46,7 @@ And don't you know that a love can't grow
 'Cause there's too much to give, 'cause you'd rather live
 For the thrill of it all, oh
 [4^... [2m... [5sus...[2m 3m 6m.
-[4^... [2m... [2m.3.  [4^.5D.
+[4^... [2m... [2m.1/3.[4^.5D.
 
 You're a rich girl, and you've gone too far
 'Cause you know it don't matter anyway
