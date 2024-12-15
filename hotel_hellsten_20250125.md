@@ -1,8 +1,8 @@
 # Deep Cuts at Hotel Hellsten 2025-01-25
 
 Set 1
-- _A long walk_, Jill Scott (https://open.spotify.com/track/3jCb9JZx9J3N8sRgKRLRY0?si=ce515a0dfd104a7e), original key: Bm, new key: Am (-2), bpm: 73
-- _Day dreaming_, Aretha Franklin (https://open.spotify.com/track/7L4G39PVgMfaeHRyi1ML7y?si=766f7e6056f04c92), original key: Bb, bpm: 73
+- [_A long walk_](https://github.com/olagustafsson1/deepcuts/blob/main/a_long_walk_73_numbers.md), Jill Scott (https://open.spotify.com/track/3jCb9JZx9J3N8sRgKRLRY0?si=ce515a0dfd104a7e), original key: Bm, new key: Am (-2), bpm: 73
+- [_Day dreaming_](https://github.com/olagustafsson1/deepcuts/blob/main/day_dreaming_73_numbers.md), Aretha Franklin (https://open.spotify.com/track/7L4G39PVgMfaeHRyi1ML7y?si=766f7e6056f04c92), original key: Bb, bpm: 73
 - _Still a friend of mine_, Incognito (https://open.spotify.com/track/6gqkHMI3iB36C0c8IjTQW4?si=71ad187b07cb402d), we do original key: F#m, bpm: 87
 - _Sweet thing_, Chaka Khan (https://open.spotify.com/track/0bqZnsPz4klg5TuWGcKb34?si=7088e4f3ccca431b), original key: A, new key: G, bpm: 80
 - _Rich Girl_, Hall & Oates, as done by Lake Street Dive (https://open.spotify.com/track/0RKKLIOnAPImtlLlYEjbYF?si=ed79309a45b54960), bpm 85, E major
