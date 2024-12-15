@@ -12,7 +12,7 @@ Numbers indicate the scale degree chord. At times the colouring of the chord is 
 1/3 or 4/6 = 1st inversion, 3rd in the bass
 ```
 
-- _Still a friend of mine_, Incognito (https://open.spotify.com/track/6gqkHMI3iB36C0c8IjTQW4?si=71ad187b07cb402d), original key: F#m, new key: Em, bpm: 87
+- _Still a friend of mine_, Incognito (https://open.spotify.com/track/6gqkHMI3iB36C0c8IjTQW4?si=71ad187b07cb402d), we do original key: F#m, bpm: 87
 - _Day dreaming_, Aretha Franklin (https://open.spotify.com/track/7L4G39PVgMfaeHRyi1ML7y?si=766f7e6056f04c92), original key: Bb, new key: n/a, bpm: 73
 - _Brother sister_, Brand new heavies (https://open.spotify.com/track/4ojq4D9iuG6egCv8yIX1N0?si=520acf9057284827), original key: Gm, new key: Fm, bpm: 75
 - _On & on_, Erykah Badu (https://open.spotify.com/track/0tNuJpBgtE65diL6Q8Q7fI?si=6de3d874243f4711), original key: Em, new key: n/a, bpm: 80
