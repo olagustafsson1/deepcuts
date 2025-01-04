@@ -1,6 +1,6 @@
 ```
 A long walk, Jill Scott, 76 bpm
-Original key: Bm
+Original key: Bm (checked 20250104)
 
 [1m11... [1m11. b6maj/b7 4maj/5
 [1m11... [1m11. b6maj/b7 4maj/5

@@ -104,5 +104,6 @@ Be good! Feel good!
 [b7... [b7... [1... [1...  horns riffing
 [b7... [b7... [1... [1...
 
-fade.
-``
+end with rit.
+(1-2-3-4-3-2-1-2-b7)
+```

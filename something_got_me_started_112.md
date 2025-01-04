@@ -38,8 +38,8 @@ Solo
 [6m9... [2m7..1 [6m9... [2m7..1
 
 Break
-[6sus. 6. [5sus.5. [6sus. 6. [5sus.5. 
-[6sus. 6. [5sus.5. [6sus. 6. [5sus.5. add kb octave
+[6sus. 6. [5sus.5. [6sus. 6. [5sus.5. (6-pedal all through)
+[6sus. 6. [5sus.5. [6sus. 6. [5sus.5. add kb octave (bass as verse)
 [6sus. 6. [5sus.5. [6sus. 6. [G11...
 
 I'd give it all up for you (x8)

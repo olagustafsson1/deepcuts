@@ -1,8 +1,7 @@
 ```
 Stayin' alive, Scary Pockets, 90 bpm, 16th groove
 
-Original: E major 
-We do: G major
+Original: E major (checked 20250104)
 
 [1D... [4D... [b7D... [5D...
 [1D... [4D... [b7D... [5D--- (add thirds)
