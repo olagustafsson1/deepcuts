@@ -2,20 +2,20 @@ Här är fyndiga treraders presentationer för varje låt:
 
 1. **A Long Walk** (Jill Scott):  
    "Nästa låt handlar om livet som en lång promenad. Jill Scott fångar både det stora och det lilla. Häng med på en musikalisk vandring!"
-
-2. **Day Dreaming** (Aretha Franklin):  
-   "Drottningen av soul vill att vi ska drömma oss bort en stund. Aretha tar oss till en annan plats med sin röst. Det är dags för lite dagdrömmande."
-
-3. **Still A Friend Of Mine** (Incognito):  
-   "Den här handlar om vänskap som står pall för allt. Incognito blandar jazz och soul med hjärta. Här är 'Still A Friend Of Mine'!"
-
-4. **Sweet Thing** (Rufus, Chaka Khan):  
-   "Kärlek kan vara så sött, eller hur? Chaka Khan och Rufus bjuder på en låt som smälter hjärtan. Här är 'Sweet Thing'!"
-
-5. **Rich Girl** (Lake Street Dive):  
+   
+2. **Rich Girl** (Lake Street Dive men Hall & Oates i original):  
    "Vad gör man när pengar och känslor krockar? Lake Street Dive har ett svar – och det svänger rejält. Det här är 'Rich Girl'!"
 
-6. **My Cherie Amour** (Stevie Wonder):  
+3. **Day Dreaming** (Aretha Franklin):  
+   "Drottningen av soul vill att vi ska drömma oss bort en stund. Aretha tar oss till en annan plats med sin röst. Det är dags för lite dagdrömmande."
+
+4. **Still A Friend Of Mine** (Incognito):  
+   "Den här handlar om vänskap som står pall för allt. Incognito blandar jazz och soul med hjärta. Här är 'Still A Friend Of Mine'!"
+
+5. **Sweet Thing** (Rufus, Chaka Khan):  
+   "Kärlek kan vara så sött, eller hur? Chaka Khan och Rufus bjuder på en låt som smälter hjärtan. Här är 'Sweet Thing'!"
+
+6. **My Cherie Amour** (Stevie Wonder men Raquel Rodriguez version):  
    "Stevie sjunger om sin älskade med så mycket värme. 'My Cherie Amour' är kärlek i toner. Slut ögonen och njut!"
 
 7. **Vad du ser är vad du får** (Lisa Nilsson):  
@@ -32,33 +32,33 @@ Här är fyndiga treraders presentationer för varje låt:
 
 11. **On & On** (Erykah Badu):  
    "Erykah Badu tar oss på en resa som aldrig tar slut. 'On & On' är som livet självt – det bara rullar på. Häng med och känn rytmen!"
-
-12. **Brother Sister** (The Brand New Heavies):  
-   "En låt om bandet mellan syskon, eller kanske vänner. The Brand New Heavies ger oss funk med en mening. Här är 'Brother Sister'!"
-
-13. **Min man** (Lisa Nilsson):  
+   
+12. **Min man** (Lisa Nilsson):  
    "Lisa sjunger om kärleken till sin man. 'Min man' är en svensk klassiker fylld med känsla. Ett perfekt soundtrack till kärlekens stunder."
 
-14. **Stayin' Alive** (Scary Pockets, Lizzy McAlpine):  
-   "Vad gör man för att hålla sig vid liv? Scary Pockets och Lizzy McAlpine bjuder på en funky version av en klassiker. Här är 'Stayin' Alive'!"
+13. **Brother Sister** (The Brand New Heavies):  
+   "En låt om bandet mellan syskon, eller kanske vänner. The Brand New Heavies ger oss funk med en mening. Här är 'Brother Sister'!"
 
-15. **How Deep Is Your Love** (PJ Morton, Yebba):  
-   "Hur djupt kan kärlek gå? PJ Morton och Yebba dyker rakt ner i känslorna. Här är 'How Deep Is Your Love'!"
-
-16. **Shake** (The Gap Band):  
+14. **Shake** (The Gap Band):  
    "Dags att skaka loss ordentligt! The Gap Band vet hur man gör festen komplett. Här är 'Shake'!"
 
-17. **Street Life** (Randy Crawford):  
+15. **Stayin' Alive** (Scary Pockets, Lizzy McAlpine men Bee Gees i original):  
+   "Vad gör man för att hålla sig vid liv? Scary Pockets och Lizzy McAlpine bjuder på en funky version av en klassiker. Här är 'Stayin' Alive'!"
+   
+16. **Street Life** (Randy Crawford):  
    "En låt om livet på stadens gator, där drömmar och verklighet möts. Randy Crawford levererar med stil. Här är 'Street Life'!"
 
-18. **All Night Long** (Lionel Richie):  
+17. **All Night Long** (Lionel Richie):  
    "Lionel Richie vill att vi ska dansa hela natten lång. Och vem kan säga nej till det? Här är 'All Night Long'!"
-
-19. **I Can’t Go For That** (Daryl Hall & John Oates):  
+   
+18. **I Can’t Go For That** (Daryl Hall & John Oates):  
    "Ibland måste man sätta gränser – med groove! Hall & Oates säger nej på det mest svängiga sättet. Här är 'I Can’t Go For That'!"
-
-20. **Something Got Me Started** (Simply Red):  
+   
+19. **Something Got Me Started** (Simply Red):  
    "När känslorna tar fart går det inte att stoppa. Simply Red bjuder på en låt som exploderar av energi. Här är 'Something Got Me Started'!"
+   
+20. **How Deep Is Your Love** (PJ Morton, Yebba men Bee Gees i original):  
+   "Hur djupt kan kärlek gå? PJ Morton och Yebba dyker rakt ner i känslorna. Här är 'How Deep Is Your Love'!"
 
 21. **Love Never Felt So Good** (Michael Jackson, Justin Timberlake):  
    "Två legender möts och skapar magi. Kärlek har aldrig känts bättre. Här är 'Love Never Felt So Good'!"
@@ -68,5 +68,3 @@ Här är fyndiga treraders presentationer för varje låt:
 
 23. **Did I Hear You Say You Love Me** (Stevie Wonder):  
    "Stevie frågar den stora frågan om kärlek. Och han gör det med så mycket känsla. Här är 'Did I Hear You Say You Love Me'!"
-
-Hoppas dessa funkar för er spelning! Lycka till! 🎶
