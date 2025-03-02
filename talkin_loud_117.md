@@ -1,3 +1,4 @@
+```
 Talkin' loud, Incognito, 117 bpm
 
 Key: G mixolydian
@@ -82,3 +83,4 @@ Talkin' loud and sayin' somethin', yeah
 Revelations from a risin' generation
 [1D... [b3D... [1D...  [b6D...
 [1D... [4D...  [2D.5D. [-1D..
+```
