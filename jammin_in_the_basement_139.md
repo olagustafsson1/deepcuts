@@ -1,3 +1,4 @@
+```
 Jammin in the basement, Judith Hill, 139 bpm
 
 **\[Verse 1]**
@@ -60,6 +61,4 @@ We're jammin' in the basement, jammin'
 And we're goin' down, down, down
 And we're jammin'
 
----
-
-Let me know if you'd like this styled as lyrics for a booklet, arranged with timestamps again, or formatted for a script or vocal guide.
+```
