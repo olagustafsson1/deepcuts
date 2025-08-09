@@ -1,64 +1,91 @@
+```
 Old songs, Betty Wright, 91 bpm
 
+Bb dorian, Ab Major
 
+[.... [....
 
-Old songs, old songs
-Old records, and old memories
-8 tracks, takin' it back
-to, them old songs, old strong songs
+[2m9... [%... [3m7... [6m7... guitar riff, plus ooh
+[2m9... [%... [3m7... [6m7...
 
-Old songs, old songs
-Old records, and old memories
-8 tracks, takin' it back
-to, them old songs, old strong songs
+Old songs, old songs, Old records, and old memories
+8 tracks, takin' it back, to, them old songs, old strong songs
+[2m9... [%... [3m7... [6m7...
+[2m9... [%... [3m7... [6m7...
 
-When you're 35 or 40
-and you chillin wit yo' shawty
-Whatchu gon' listen to? Whatchu gon' listen to
-if you ain't making nothin new?
-If ya wanna just sample
-Well I'm tellin you, ya gamble
-You ain't even writing one strong song
-You ain't even writing nothing to hold on
-Late at night you wanna watch TV
-Lean back and play a lil' Stevie (Stevie)
-Play the music, play the music
-Then you'll know why I'm talkin 'bout the
+Old songs, old songs, Old records, and old memories
+8 tracks, takin' it back, to, them old songs, old strong songs
+[2m9... [%... [3m7... [6m7...
+[2m9... [%... [3m7... [6m7...
 
-Old songs, old songs
-Old records, and old memories
-8 tracks, takin' it back
-to, them old songs, old strong songs
+When you're 35 or 40, and you chillin wit yo' shawty
+Whatchu gon' listen to? Whatchu gon' listen to, if you ain't making nothin new?
+If ya wanna just sample, Well I'm tellin you, ya gamble
+You ain't even writing one strong song, You ain't even writing nothing to hold on
+Late at night you wanna watch TV, Lean back and play a lil' Stevie (Stevie)
+Play the music, play the music, Then you'll know why I'm talkin 'bout the
+[5D11... [%... [1M... [6Db9...
+[5D11... [%... [1M... [6Db9...
+[5D11... [%... [1M... [6Db9...
 
-When you get a little older
-and your nights get a little bit colder
-Whatcha gon' cuddle to? Whatcha gon' cuddle to?
-Well it must be misty blue
-Tell me what you got on yo' menu
-Serve it up, I know that it's in you
-Serve it up, serve it up
-Serve it up serve it up serve it up
-Listen to the music that made you
-Tune in to what yo' mama played ya
+Old songs, old songs, Old records, and old memories
+8 tracks, takin' it back, to, them old songs, old strong songs
+[2m9... [%... [3m7... [6m7...
+[2m9... [%... [3m7... [6m7...
+
+When you get a little older, and your nights get a little bit colder
+Whatcha gon' cuddle to? Whatcha gon' cuddle to? Well it must be misty blue
+Tell me what you got on yo' menu, Serve it up, I know that it's in you
+Serve it up, serve it up, Serve it up serve it up serve it up
+Listen to the music that made you, Tune in to what yo' mama played ya
 Time to celebrate, time to create before, it's too late
 Oh, go to your favorite place (Go to your favorite place)
 Speakers bumpin, bumpin that bass (Speakers bumpin that bass)
-Slow dance and what do they play?
-Betty and Teddy all up in yo' face!
+Slow dance and what do they play? Betty and Teddy all up in yo' face!
+[5D11... [%... [1M... [6Db9...
+[5D11... [%... [1M... [6Db9...
+[5D11... [%... [1M... [6Db9...
 
-Old songs, old songs
-Old records, and old memories
-8 tracks, takin' it back
-to, them old songs, old strong songs
+[2m9... [%... [3m7... [6m7...
+
+Old songs, old songs, Old records, and old memories
+8 tracks, takin' it back, to, them old songs, old strong songs
+[2m9... [%... [3m7... [6m7...
+[2m9... [%... [3m7... [6m7...
+
+Old songs, old songs, Old records, and old memories
+8 tracks, takin' it back, to, them old songs, old strong songs
+
+RAP on top
 I must admit yo' beats got fatter
 But add subject matter on subjects that matter...
 Cause it matters, yeah it matters...
-Hmmmm-mmmm
+[2m9... [%... [3m7... [6m7...
+[2m9... [%... [3m7... [6m7...
+
+Instrumental
+[5D11... [%... [1M... [6Db9...
+[5D11... [%... [1M... [6Db9...
+[5D11... [%... [1M... [6Db9...
+
+CHORUS with song on top:
 Patti, Gladys, Chaka Khan, Prince
 And Kelly, and Kelly, and Kelly, and Kelly...
+[2m9... [%... [3m7... [6m7...
+[2m9... [%... [3m7... [6m7...
+
+CHORUS
+[2m9... [%... [3m7... [6m7...
+[2m9... [%... [3m7... [6m7...
+
+CHORUS repeat 'til cue
+[2m9... [%... [3m7... [6m7...
+[2m9... [%... [3m7... [6m7...
+
 Mary Mary, you blossom like cherries, I've seen your garden grow
 Hey, Erykah, little sista
 I'm feelin ya, Badu, Badu Badu and.
+
 Angie, C'MON Stone! Keep on writin and singin dem strong songs, ohh
 India.Arie, keep singin and playin for me
 Talk about that sweet tea and your sweetie
@@ -69,3 +96,4 @@ Joe and Mario and Ne-Yo and ohhh
 Keep on writing and singing them strong songs
 Just keep on listenin to Marvin, Aretha, The Isleys and them O'Jays
 So you'll know what to say and you'll know what to play
+```
