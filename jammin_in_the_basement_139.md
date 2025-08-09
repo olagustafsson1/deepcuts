@@ -1,64 +1,90 @@
 ```
 Jammin in the basement, Judith Hill, 139 bpm
 
-**\[Verse 1]**
-Don't need no password
-I don't need no cash
-We got that good juice
-So let's make it last
+Think of it as being Bb dorian or Ab major
 
-**\[Pre-Chorus]**
-We better call up the baby
-He got the magic stuff
-And when we get it on the way
-We'll be locked in a golden, golden, golden
+[....
 
-**\[Chorus]**
-We'll jam it in the bank, all night long
-Jam it in the bank, to the police car
+Don't need no password, I don't need no cash
+We got that good juice, So let's make it last
+[4/2 5-4/2 [5/2... [4/2 5-4/2 [5/2... 
+[4/2 5-4/2 [5/2... [4/2 5-4/2 [5/2... 
+
+We better call up the baby, He got the magic stuff
+And when we get it on the way, We'll be locked in a golden, golden, golden
++ 2 [4/2 5-4/2 [5/2... [4/2 5-4/2 [5/2... (modulate to Bb or C dorian)
++ 0 [4/2 5-4/2 [5/2... [4/2 5-4/2 [5/2... (go back)
+
+CHORUS
+We'll jam it in the basement, all night long
+Jam it in the basement, to the police car
 And we're going down, down, down, down
 We're going down, down, down, down
+[4/2 5-4/2 5 [%... [4/2 5-4/2 5 [%... 
+[4/2 5-4/2 5 [%... [4/2---      [%--- drum fill 
 
-**\[Verse 2]**
-We got the best drink
-In every bar
-You know how to turn out
-Just like a fly
+We got the best drink, In every bar
+You know how to turn out, Just like a fly
+[4/2 5-4/2 [5/2... [4/2 5-4/2 [5/2...
+[4/2 5-4/2 [5/2... [4/2 5-4/2 [5/2...
 
-**\[Bridge]**
-My sneakers are perfect
-They go to market
-And when we get it on the way
-We'll be locked in a golden, golden, golden
+My sneakers are perfect, They go to market
+And when we get it on the way, We'll be locked in a golden, golden, golden
++ 2 [4/2 5-4/2 [5/2... [4/2 5-4/2 [5/2... (modulate to Bb or C dorian)
++ 0 [4/2 5-4/2 [5/2... [4/2 5-4/2 [5/2... (go back)
 
-**\[Chorus]**
-We'll jam it in the bank, all night long
-Jam it in the bank, to the police car
+CHORUS
+We'll jam it in the basement, all night long
+Jam it in the basement, to the police car
 And we're going down, down, down, down
 We're going down, down, down, down
+[4/2 5-4/2 5 [%... [4/2 5-4/2 5 [%... 
+[4/2 5-4/2 5 [%... [4/2---      [%--- drum fill 
 
-**\[Break]**
-Jam it in the bank, friendly
-Jam it in the bank, friendly
+Jam it in the basement, friendly
+Jam it in the basement, friendly
 And we jam it, move, move
 We just move, and we jam it
+[4/2 5-4/2 5 [%... [4/2 5-4/2 5 [%... 
+[4/2 5-4/2 5 [%... [4/2 5-4/2 5 [%... 
 
-**\[Build-Up]**
 And we go up, up, up, up
 Up, up, up, up
-We'll jam it in the bank, friendly
-Jam it in the bank, friendly
+We'll jam it in the basement, friendly
+Jam it in the basement, friendly
+[4/2 5-4/2 5 [%... [4/2 5-4/2 5 [%... 
+[4/2 5-4/2 5 [%... [4/2 5-4/2 5 [%... 
 
-**\[Bridge 2]**
 Until the morning shine, we're gonna be in this together
 And we got all the time, and it just don't get any better
+[---- [%--- [---- [%---
+[---- [%--- [---- [%---
 
-**\[Outro]**
+Instrumental verse, horn fills
+[4/2 5-4/2 [5/2... [4/2 5-4/2 [5/2...
+[4/2 5-4/2 [5/2... [4/2 5-4/2 [5/2... 
+
++ 2 [4/2 5-4/2 [5/2... [4/2 5-4/2 [5/2... (modulate to Bb or C dorian)
++ 0 [4/2 5-4/2 [5/2... [4/2 5-4/2 [5/2... (go back)
+
+Solo
+[4/2 5-4/2 5 [%... [4/2 5-4/2 5 [%... 
+[4/2 5-4/2 5 [%... [4/2---      [%--- drum fill 
+
+[4/2 5-4/2 5 [%... [4/2 5-4/2 5 [%... 
+[4/2 5-4/2 5 [%... [4/2---      [%--- drum fill 
+
 And we're jammin' in the basement, we're jammin'
 Jammin' in the basement, jammin', yeah
 We're goin' down, down, down
 We're jammin' in the basement, jammin'
 And we're goin' down, down, down
 And we're jammin'
+[4/2 5-4/2 5 [%... [4/2 5-4/2 5 [%... 
+[4/2 5-4/2 5 [%... [4/2---      [%--- drum fill
+
+[4/2 5-4/2 5 [%... [4/2 5-4/2 5 [%... 
+[4/2 5-4/2 5 [%... [4/2---      [%--- drum fill
+[.
 
 ```
