@@ -2,8 +2,8 @@
 I feel for you, Prince, bpm 121 (original F#, we do E)
 
 [--.. drums
-[1... [%... [4.1/3. [2m.5D. 
-[1... [%... [4.1/3 2[5D... 
+[1... [%... [4.1/3.   [2m.5D. 
+[1... [%... [4.1/3 2m [5D... 
 [%---
 
 Baby, baby, when I look at you, I get a warm feeling inside
@@ -13,8 +13,8 @@ There's something about the things you do, That keeps me satisfied
 
 I wouldn't lie to you, baby, It's mainly a physical thing
 This feeling that I got for you, baby, It makes me wanna sing
-[1D... [%... [4.1/3. [2m.5D. (boogie 6-7)
-[1D... [%... [4.1/3 2[5D...  (boogie 6-7)
+[1D... [%... [4.1/3.   [2m.5D. (boogie 6-7)
+[1D... [%... [4.1/3 2m [5D...  (boogie 6-7)
 
 I feel for you, I think I love you
 I feel for you, I think I love you
@@ -28,8 +28,8 @@ I can't believe, can't believe it's true, The things that you do to me
 
 I wouldn't lie to you, baby, I'm physically attracted to you
 This feeling that I got for you, baby (hey, baby), There's nothing that I wouldn't do, for you girl
-[1D... [%... [4.1/3. [2m.5D. (boogie 6-7)
-[1D... [%... [4.1/3 2[5D...  (boogie 6-7)
+[1D... [%... [4.1/3.   [2m.5D. (boogie 6-7)
+[1D... [%... [4.1/3 2m [5D...  (boogie 6-7)
 
 I feel for you, I think I love you
 I feel for you, I think I love you
@@ -37,8 +37,8 @@ I feel for you, I think I love you
 [1D... [%... [b7D... [%...
 
 As intro melody
-[1... [%... [4.1/3. [2m.5D. 
-[1... [%... [4.1/3 2[5D... 
+[1... [%... [4.1/3.   [2m.5D. 
+[1... [%... [4.1/3 2m [5D... 
 [%---
 
 Refs
