@@ -8,6 +8,10 @@ Chord charts, lyrics, tempo and other notes
 
 Charts use Nashville Number System notation with scale degrees. See [LEGEND.md](LEGEND.md) for complete notation reference.
 
+## Chart file header
+
+**Source charts** live under [`raw/`](raw/); **autofixed** copies from `python3 lint_chart.py --output-dir linted` go under [`linted/`](linted/) — tooling must not write into `raw/`. Each chart should open with a structured block right after the opening fenced code marker: `Song title:`, `Performing artist:`, `Original artist:`, `Original key:`, `Original tempo:`, `New key:`, `New tempo:` — see [raw/sledgehammer_115.md](raw/sledgehammer_115.md). Run `python3 lint_chart.py` from the repo root to validate (use `--no-metadata` while migrating older files).
+
 ## Song List
 
 - _A long walk_, Jill Scott (https://open.spotify.com/track/3jCb9JZx9J3N8sRgKRLRY0), original key: Bm, new key: Am, bpm: 73
