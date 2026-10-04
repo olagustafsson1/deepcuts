@@ -1,6 +1,10 @@
 ```
 20 Dollars, Angie Stone, bpm 68
 
+Idea: Create a contrast between verse and chorus
+Have the verse just be keys, kick and rim (no bass)
+Have the chorus add bass and a 16th note shaker
+
 [1... [5D... [1D... [5D...
 [1... [5D... [1D... [5D...
 
